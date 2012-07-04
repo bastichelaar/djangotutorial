@@ -1,0 +1,4 @@
+djangotutorial
+==============
+
+Django Tutorial application
